@@ -7,7 +7,7 @@
 ## Install
 
 ```
-asdf plugin-add hugo https://github.com/beardix/asdf-hugo.git
+asdf plugin-add hugo https://github.com/nitingupta910/asdf-hugo.git
 ```
 
 ## Use
